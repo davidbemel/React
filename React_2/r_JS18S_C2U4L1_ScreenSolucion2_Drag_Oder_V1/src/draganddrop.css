@@ -1,0 +1,25 @@
+  .container-drag {
+    text-align: center;
+  }
+
+  li.colocaraqui { 
+    /*background: rgb(250, 225, 3); */
+    border: dashed 1px #000;
+    list-style-type: none;
+  }
+  li.colocaraqui:before {
+    content: "Colocar aquí"; 
+    /*color: #f3e30a;*/
+  }
+
+  ul { 
+    list-style: none; 
+    margin:0; padding:0
+  }
+
+  li {
+    padding: 5px; 
+    /*background:#eee; */
+    cursor: move;
+    list-style-type: none;
+  }

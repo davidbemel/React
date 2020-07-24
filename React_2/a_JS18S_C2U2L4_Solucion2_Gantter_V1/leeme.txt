@@ -1,0 +1,11 @@
+Para hacer uso de este código debes crear una aplicación en React.
+Esta aplicación la puedes crear usando el comando:
+
+npx create-react-app ejercicio2_U2L4
+
+Ingresa a la carpeta ejercicio2_U2L4/src y copia los archivos app.js, index.js y Actividades.js en 
+esta carpeta.
+
+Puedes modificar la cantidad de actividades cambiando en App.js el valor del atributo cantidad.
+
+Inicia la aplicación con: npm start

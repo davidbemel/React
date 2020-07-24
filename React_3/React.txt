@@ -1,0 +1,37 @@
+Para hacer uso de este código debes crear una aplicación en React.
+Esta aplicación la puedes crear usando el comando:
+
+npx create-react-app ejercicio
+
+Ingresa a la carpeta ejercicio/src y copia los archivos app.js, place.js, horario.js e index.js en esta carpeta.
+
+Ingresa a la carpeta ejercicio/public y copia el archivo index.html
+
+
+Debes instalar bootstrap, para ello debes ingresar a la carpeta ejercicio desde la terminal de comandos y ejecutar lo siguiente:
+
+npm install
+npm install --save bootstrap
+npm install react-html-parser
+npm install --save react-star-ratings
+npm install --save google-maps-react
+
+
+Debes editar el archivo index.html y sustituir [API-KEY] por el valor de tu API Key que
+creaste en la plataforma de desarrollo de google cuando configuraste el proyecto
+a utilizar para este ejercicio.
+
+Inicia la aplicación con: npm start
+
+
+
+---
+
+Google Api
+
+AIzaSyCB2XypwIHu_950VXxJvzlNNvc3HxkASq8
+
+prestada
+AIzaSyBLQQn2DF-YMiS0vXVctHdajjkpLNJ5wZ0
+
+

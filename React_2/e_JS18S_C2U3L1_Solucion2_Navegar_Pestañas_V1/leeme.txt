@@ -1,0 +1,13 @@
+Para hacer uso de este código debes crear una aplicación en React.
+Esta aplicación la puedes crear usando el comando:
+
+npx create-react-app ejercicio2_U3L1
+
+Ingresa a la carpeta ejercicio2_U3L1/src y copia los archivos app.js y index.js en 
+esta carpeta.
+
+Puedes modificar la venta activa puedes modificar el valor del atributo activa en el archivo index.js.
+
+Puedes modificar los nombres y contenido de las pestañas cambiando los valores del arreglo con nombre pestanas.
+
+Inicia la aplicación con: npm start

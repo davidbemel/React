@@ -1,0 +1,13 @@
+Para hacer uso de este código debes crear una aplicación en React.
+Esta aplicación la puedes crear usando el comando:
+
+npx create-react-app ejercicio1_U2L1
+
+Ingresa a la carpeta ejercicio1_U2L1/src y copia el archivo app.js en 
+esta carpeta.
+
+Inicia la aplicación con: npm start
+
+Modifica la linea 8 del archivo app.js, cambiando el valor del atributo 
+mostrarEstado de false a true y de true a false, y observa como se muestra 
+y oculta el mensaje en la página.

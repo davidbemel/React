@@ -1,0 +1,15 @@
+Para hacer uso de este código debes crear una aplicación en React.
+Esta aplicación la puedes crear usando el comando:
+
+npx create-react-app ejercicio1_U3L4
+
+Ingresa a la carpeta ejercicio1_U3L4/src y copia los archivos app.js, index.js, Form.js, Paises.js y Pais.js en esta carpeta.
+
+
+Debes instalar bootstrap y font-awesome, para ello debes
+ingresar a la carpeta ejercicio1_U3L4 desde la terminal de comandos y ejecutar lo siguiente:
+
+npm install bootstrap
+npm install font-awesome
+
+Inicia la aplicación con: npm start

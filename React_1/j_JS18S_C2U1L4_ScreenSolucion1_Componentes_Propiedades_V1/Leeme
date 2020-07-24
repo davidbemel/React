@@ -1,0 +1,12 @@
+Leeme
+
+Para hacer uso de este código debes crear una aplicación React usando 
+
+	npx create-react-app ejercicio
+
+El archivo index.html debe colocarse en la carpeta public
+Los archivos .js y .css deben colocarse en la la carpeta src
+
+Y luego inicia la aplicación React:
+
+	npm start

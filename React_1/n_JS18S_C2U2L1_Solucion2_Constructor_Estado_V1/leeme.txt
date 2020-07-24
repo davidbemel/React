@@ -1,0 +1,12 @@
+Para hacer uso de este código debes crear una aplicación en React.
+Esta aplicación la puedes crear usando el comando:
+
+npx create-react-app ejercicio2_U2L1
+
+Ingresa a la carpeta ejercicio2_U2L1/src y copia los archivos app.js e index.js en 
+esta carpeta.
+
+Inicia la aplicación con: npm start
+
+Modifica las lineas 7 y 8 del archivo index.js, cambiando los valores de los atributos 
+mostrarEstado de false a true y de true a false, y mensaje, para observes como cambia la página.

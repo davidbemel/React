@@ -1,0 +1,19 @@
+Para hacer uso de este código debes crear una aplicación en React.
+Esta aplicación la puedes crear usando el comando:
+
+npx create-react-app ejercicio1_U3L3
+
+Ingresa a la carpeta ejercicio1_U3L3/src y copia los archivos app.js, index.js, Fecha.js
+y Tarea.js en esta carpeta.
+
+Para modificar las tareas precargadas puedes modificar el archivo index.js
+
+Debes instalar bootstrap, font-awesome, react-datapicker y moment, para ello debes
+ingresar a la carpeta ejercicio1_U3L3 desde la terminal de comandos y ejecutar lo siguiente:
+
+npm install bootstrap
+npm install font-awesome
+npm install react-datepicker
+npm install moment
+
+Inicia la aplicación con: pm start

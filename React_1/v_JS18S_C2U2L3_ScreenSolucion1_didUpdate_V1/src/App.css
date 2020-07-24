@@ -1,0 +1,13 @@
+.font-size{
+  font-size: 16px;
+}
+
+.size{
+  width: 250px;
+}
+
+.position{
+  position: absolute;
+  left: 300px;
+  top: 33px;
+}
