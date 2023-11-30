@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_davidbemel_React_1701308936249-pr-trigger-input-set
+  identifier: Build_davidbemel_React_1701308936249prtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: default_project
+  pipeline:
+    identifier: Build_davidbemel_React_1701308936249
+    properties:
+      ci:
+        codebase:
+          build:
+            type: PR
+            spec:
+              number: <+trigger.prNumber>
